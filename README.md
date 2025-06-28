@@ -1,7 +1,4 @@
 ![image](https://github.com/user-attachments/assets/127ecded-16dd-4546-a1ec-7a3e1d2737cd)
-
-
-
 # Safestay: Hostels & Hotels -  Data Analysis Project
 
 Welcome to the **Safestay Hostel Group Performance Analysis** project! This project simulates real-world data analytics using synthetic data generated to reflect Safestay’s operational model across 18 hostel locations in Europe. The goal is to uncover key insights using **Python**, **Pandas**, **Plotly**, **SQL**,and **Data Visualization**, and demonstrate the impact a data analyst can make in a business setting.
